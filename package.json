@@ -1,0 +1,22 @@
+{
+  "name": "hello-suster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguskianto/hello-suster.git"
+  },
+  "keywords": [
+    "suster"
+  ],
+  "author": "agus kianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguskianto/hello-suster/issues"
+  },
+  "homepage": "https://github.com/aguskianto/hello-suster#readme"
+}
